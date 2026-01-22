@@ -1,12 +1,12 @@
-IKEA SALES DATA ANALYSIS
+# IKEA SALES DATA ANALYSIS
 
-PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 This project analyzes IKEA sales data to understand sales performance, profitability, and the relationships between key business metrics. The analysis uses Python and Jupyter Notebook to perform data cleaning, exploratory data analysis, and visualization.
 
 The goal is to derive actionable business insights that can support data-driven decision-making in pricing, inventory management, and product strategy.
 
-OBJECTIVES
+## OBJECTIVES
 
 Analyze overall sales and profit performance
 
@@ -18,7 +18,7 @@ Examine sales trends and year-over-year growth
 
 Provide business recommendations based on insights
 
-TOOLS AND TECHNOLOGIES
+## TOOLS AND TECHNOLOGIES
 
 Python
 
@@ -32,7 +32,7 @@ Matplotlib
 
 Seaborn
 
-DATASET DESCRIPTION
+## DATASET DESCRIPTION
 
 The dataset contains IKEA sales records with key fields such as:
 
@@ -48,7 +48,7 @@ Order Date
 
 The data was cleaned and preprocessed before analysis to ensure accuracy and consistency.
 
-ANALYSIS PERFORMED
+## ANALYSIS PERFORMED
 
 Data Cleaning and Preprocessing
 
@@ -62,7 +62,7 @@ Year-over-Year Growth Analysis
 
 Advanced Data Visualizations
 
-KEY INSIGHTS
+## KEY INSIGHTS
 
 Sales and profit show a strong positive correlation, indicating that higher revenue directly contributes to higher profitability.
 
@@ -72,7 +72,7 @@ Certain product categories contribute disproportionately more to total profit.
 
 Sales trends show consistent performance with identifiable growth periods.
 
-BUSINESS RECOMMENDATIONS
+## BUSINESS RECOMMENDATIONS
 
 Focus on high-margin products rather than high-quantity products.
 
@@ -80,11 +80,11 @@ Optimize pricing strategies to maximize profitability.
 
 Use category-level and regional insights for better inventory and marketing planning.
 
-CONCLUSION
+## CONCLUSION
 
 This analysis provides actionable insights that can help IKEA improve profitability, optimize sales strategies, and make informed business decisions using data-driven methods.
 
-FUTURE SCOPE
+## FUTURE SCOPE
 
 Implement predictive sales forecasting using machine learning.
 Analyze customer-level purchasing behavior.
